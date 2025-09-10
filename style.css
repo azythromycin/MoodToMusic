@@ -1,0 +1,19 @@
+body {
+    letter-spacing: 2px;
+    text-align: center;
+    background-image: url('bgpic.png');
+    background-size: cover;
+    font-family: 'Great Vibes', cursive;
+    font-size: large;
+
+}
+
+.container {
+}
+h1 {
+    color: #ED4700;
+}
+
+input {
+    border-width: 1mm;
+}
